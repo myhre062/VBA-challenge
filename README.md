@@ -7,7 +7,7 @@ Please refer to the Stock_Data.bas and Stock_Data.txt files in my repository for
 
 ## Instructions
 
-Download the repository and create a new module in the excel sheets in the Resources file. In these modules you can copy and paste the vba scripts provided in the Stock_Data.bas or Stock_Data.txt. Click the play button and watch the VBA program do it's work. This may take a few seconds.
+Clone the repository and create a new module in the excel sheets in the Resources file. In these modules you can copy and paste the vba scripts provided in the Stock_Data.bas or Stock_Data.txt. Click the play button and watch the VBA program do it's work. This may take a few seconds.
 
 Note: Ensure that macros are enabled in Excel to run the VBA script.
 
